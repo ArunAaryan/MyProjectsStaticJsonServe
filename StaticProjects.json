@@ -1,5 +1,12 @@
 [
   {
+    "title": "Password Manager",
+    "duration": "2 Months",
+    "href": "https://github.com/ArunAaryan/PasswordManager",
+    "languages": "NodeJs, EJS, Express, React",
+    "info": "A password Manager written in MERN : HttpOnly, cookies, JWT, Encryption, Decryption mechanismsto Store Passwords securely on cloud"
+  },
+  {
     "title": "ClassNetwork",
     "duration": "3 Months",
     "href": "//github.com/ArunAaryan/ClassNetwork",
