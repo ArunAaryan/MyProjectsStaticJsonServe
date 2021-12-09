@@ -43,5 +43,15 @@
       "info": "Part of Internship"
     }
   ],
-  "bio": "Hi ! I am a Full Stack Developer - MERN. I enjoy problem solving, coding and experimenting with frameworks. I also do web development for fun. Currently spending time with JS as there is always something new in JS &#128518; "
+  "bio": "Hi ! I am a Full Stack Developer - MERN. I enjoy problem solving, coding and experimenting with frameworks. I also do web development for fun.",
+  "skills": [
+    "Python",
+    "C++",
+    "ReactJS",
+    "MongoDB",
+    "Node",
+    "API",
+    "TailwindCSS",
+    "NextJs"
+  ]
 }
