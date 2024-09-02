@@ -51,9 +51,12 @@
   ],
   "bio": "Hi ! I am a Full Stack Developer - MERN. I enjoy problem solving, coding and experimenting with frameworks. I also do web development for fun.",
   "skills": [
+    "Typescript",
+    "React",
+    "NestJS",
+    "GraphQL",
     "Python",
     "C++",
-    "ReactJS",
     "MongoDB",
     "Node",
     "API",
