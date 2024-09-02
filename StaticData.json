@@ -4,7 +4,8 @@
       "title" : "Awestreak - Streak Manager",
       "duration" : "2 Months",
       "href" : "https://github.com/ArunAaryan/Awestreak-Frontend",
-      "languages" : "Typescript, NestJS, React, React Query"
+      "languages" : "Typescript, NestJS, React, React Query",
+      "info" : "A public platform to do things together, create, edit, join Boards maintain streaks"
     },
     {
       "title": "Password Manager",
