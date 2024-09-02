@@ -1,6 +1,12 @@
 {
   "projectData": [
     {
+      "title" : "Awestreak - Streak Manager",
+      "duration" : "2 Months",
+      "href" : "https://github.com/ArunAaryan/Awestreak-Frontend",
+      "languages" : "Typescript, NestJS, React, React Query"
+    },
+    {
       "title": "Password Manager",
       "duration": "2 Months",
       "href": "https://github.com/ArunAaryan/PasswordManager",
